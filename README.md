@@ -72,6 +72,7 @@ Found a bug or have a feature request? Open an **[Issue](../../issues)** in this
 
 Full notes for every version are on the **[Releases](../../releases)** page.
 
+- **v1.26.10** — Browsers that aren't on the computer can't be picked for cookies; clearer cookie errors; updates keep one backup
 - **v1.26.9** — Settings → Help: Report a bug (opens a GitHub issue with your versions filled in) and a panel log
 - **v1.26.8** — Converting a 4K download no longer freezes the panel ("stuck on Moving files into place"); it shows a percentage and can be cancelled
 - **v1.26.7** — gallery-dl installs on Windows
