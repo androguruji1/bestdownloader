@@ -31,7 +31,7 @@ You need a reference clip, a Pinterest moodboard or an Instagram Reel for your e
 
 - Adobe Premiere Pro **2021 (v15.0) or later**
 - **macOS** or **Windows**
-- Free helper tools (yt-dlp, gallery-dl, ffmpeg) — the setup guide walks you through it
+- Helper tools (yt-dlp, gallery-dl, ffmpeg) download themselves on first start, about 100 MB, once
 
 ---
 
@@ -41,13 +41,24 @@ You need a reference clip, a Pinterest moodboard or an Instagram Reel for your e
 
 ---
 
-## 🛒 Get It
+## ⬇️ Download & free trial
 
-**Launching soon on my store.** Meanwhile, check out my other tools and packs for editors:
+1. Download **`BestDownloader-<version>-Install.zip`** from the **[latest release](../../releases/latest)**.
+2. Unzip it, then:
+   - **Mac:** double-click `Install BestDownloader (Mac).command`
+   - **Windows:** double-click `Install BestDownloader (Windows).bat` (if Windows warns: *More info → Run anyway*)
+3. Restart Premiere Pro → **Window → Extensions → BestDownloader**.
+4. Click **Start 14-day free trial**. No key needed to try it.
 
-[![Shop Now](https://img.shields.io/badge/🛒_Shop_Now-superprofile.bio%2Fandroguruji-7C3AED?style=for-the-badge)](https://superprofile.bio/androguruji)
+The panel tells you when a new version is out and updates itself.
 
-For early access, DM me on [Instagram @androguruji](https://www.instagram.com/androguruji) or join the [Telegram channel](https://t.me/androgurujiofficial).
+## 🛒 Buy a license
+
+**₹499 once, lifetime.** No subscription. One key works on 2 computers.
+
+[![Buy BestDownloader](https://img.shields.io/badge/🛒_Buy_BestDownloader-₹499_lifetime-7C3AED?style=for-the-badge)](https://superprofile.bio/vp/bestdownloader-%E2%80%93-stock-photos---videos-in-premiere-pro)
+
+Your license key arrives by email right after the purchase.
 
 ---
 
@@ -59,7 +70,13 @@ Found a bug or have a feature request? Open an **[Issue](../../issues)** in this
 
 ## 📝 Changelog
 
-- **v1.20.0** — Current build (multi-site downloads, image galleries, clipboard watching, auto Premiere-compatibility conversion)
+Full notes for every version are on the **[Releases](../../releases)** page.
+
+- **v1.26.8** — Converting a 4K download no longer freezes the panel ("stuck on Moving files into place"); it shows a percentage and can be cancelled
+- **v1.26.7** — gallery-dl installs on Windows
+- **v1.26.6** — 14-day free trial; the Buy button always opens
+- **v1.26.0** — License keys, team keys, and updates inside the panel
+- **v1.20.0** — Multi-site downloads, image galleries, clipboard watching, auto Premiere-compatibility conversion
 
 ---
 
