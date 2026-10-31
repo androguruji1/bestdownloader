@@ -3,6 +3,12 @@
 **Paste a link. Get the clip. Right inside Premiere.**
 BestDownloader downloads videos and images from YouTube, Instagram, Pinterest, TikTok, Reddit, X and hundreds of other sites — into a queue, and straight into your Premiere Pro project.
 
+### 🎁 Try it free for 14 days — no card, no sign-up
+
+[![Download the free trial](https://img.shields.io/badge/⬇️_Download_free_trial-14_days_free-22C55E?style=for-the-badge)](../../releases/latest)
+
+Install it, open it in Premiere and click **Start 14-day free trial**. Like it? Keep it for **₹499 once, lifetime** — [buy here](#-buy-a-license).
+
 > 💰 This is a **paid tool**. The source code is private — this repo is the official showcase, changelog and support page.
 
 ---
@@ -54,7 +60,11 @@ The panel tells you when a new version is out and updates itself.
 
 ## 🛒 Buy a license
 
-**₹499 once, lifetime.** No subscription. One key works on 2 computers.
+**Not sure yet? Try it free for 14 days first — no card, no sign-up.**
+
+[![Download the free trial](https://img.shields.io/badge/⬇️_Download_free_trial-14_days_free-22C55E?style=for-the-badge)](../../releases/latest)
+
+Then keep it for **₹499 once, lifetime.** No subscription. One key works on 2 computers.
 
 [![Buy BestDownloader](https://img.shields.io/badge/🛒_Buy_BestDownloader-₹499_lifetime-7C3AED?style=for-the-badge)](https://superprofile.bio/vp/bestdownloader-%E2%80%93-stock-photos---videos-in-premiere-pro)
 
