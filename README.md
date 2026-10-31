@@ -23,6 +23,7 @@ You need a reference clip, a Pinterest moodboard or an Instagram Reel for your e
 |---|---|
 | 🌐 **Hundreds of sites** | YouTube, Instagram, Pinterest, TikTok, X, Reddit, Facebook, Vimeo, Twitch, Behance, Threads and more |
 | 🖼️ **Videos *and* images** | Instagram carousels, Pinterest boards, image posts — not just videos |
+| 🧩 **Browser extension, free** | Right-click any image, video or link in Chrome → **Send to BestDownloader** → it's on your timeline. Firefox coming soon |
 | 📋 **Clipboard watching** | Copy a link anywhere on your computer — the panel offers to queue it in one click |
 | 📥 **Bulk paste & queue** | Paste one link or thirty; duplicates removed, downloads run one by one with live progress |
 | 🎞️ **Auto-import to Premiere** | Finished files land in the project bin you choose |
@@ -57,6 +58,26 @@ You need a reference clip, a Pinterest moodboard or an Instagram Reel for your e
 4. Click **Start 14-day free trial**. No key needed to try it.
 
 The panel tells you when a new version is out and updates itself.
+
+## 🧩 Browser extension: Send to BestDownloader (free)
+
+Found the perfect image on Google Images, a Pinterest pin or a reel while browsing? **Right-click it → Send to BestDownloader**, and it downloads straight into your Premiere project and onto the timeline. No copy-paste, no Downloads folder.
+
+- **Right-click an image** → the full-size picture is saved (on Google Images it grabs the original, not the blurry thumbnail)
+- **Right-click a video or a link** → it goes into the download queue
+- **Click the toolbar button** → sends the page you're on (a YouTube video, a reel, a pin)
+- Premiere must be open with the panel. Nothing is sent anywhere except to the panel on your own computer.
+
+**Install it in Chrome (once):**
+1. In the panel open **Settings → Browser extension → Show extension folder** (its path is copied for you).
+2. In Chrome go to `chrome://extensions` and turn on **Developer mode** (top right).
+3. Click **Load unpacked** and choose that folder. Done: right-click anything to try it.
+
+Works in Edge and Brave the same way. **Firefox:** coming soon on Firefox Add-ons, one click to add.
+
+## 🧪 Beta builds
+
+Want new features first? In the panel open **Settings → Beta builds → Join the beta**. Beta versions then show up as updates. Something not right? Click **Leave the beta** and the panel puts the regular version back. Please [report beta bugs here](../../issues).
 
 ## 🛒 Buy a license
 
