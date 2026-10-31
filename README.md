@@ -23,7 +23,7 @@ You need a reference clip, a Pinterest moodboard or an Instagram Reel for your e
 |---|---|
 | 🌐 **Hundreds of sites** | YouTube, Instagram, Pinterest, TikTok, X, Reddit, Facebook, Vimeo, Twitch, Behance, Threads and more |
 | 🖼️ **Videos *and* images** | Instagram carousels, Pinterest boards, image posts — not just videos |
-| 🧩 **Browser extension, free** | Right-click any image, video or link in Chrome → **Send to BestDownloader** → it's on your timeline. Firefox coming soon |
+| 🧩 **Browser extension, free** | Right-click any image, video or link in Chrome or Firefox → **Send to BestDownloader** → it's on your timeline |
 | 📋 **Clipboard watching** | Copy a link anywhere on your computer — the panel offers to queue it in one click |
 | 📥 **Bulk paste & queue** | Paste one link or thirty; duplicates removed, downloads run one by one with live progress |
 | 🎞️ **Auto-import to Premiere** | Finished files land in the project bin you choose |
@@ -68,12 +68,14 @@ Found the perfect image on Google Images, a Pinterest pin or a reel while browsi
 - **Click the toolbar button** → sends the page you're on (a YouTube video, a reel, a pin)
 - Premiere must be open with the panel. Nothing is sent anywhere except to the panel on your own computer.
 
-**Install it in Chrome (once):**
-1. In the panel open **Settings → Browser extension → Show extension folder** (its path is copied for you).
+**Install it in Chrome, Edge or Brave (once, free):**
+1. In the panel open **Settings → Browser extension → Chrome: show extension folder** (its path is copied for you).
 2. In Chrome go to `chrome://extensions` and turn on **Developer mode** (top right).
 3. Click **Load unpacked** and choose that folder. Done: right-click anything to try it.
 
-Works in Edge and Brave the same way. **Firefox:** coming soon on Firefox Add-ons, one click to add.
+**Install it in Firefox (once, free):**
+1. In the panel open **Settings → Browser extension → Add to Firefox**.
+2. Firefox opens and asks *"Add Send to BestDownloader?"* → click **Add**. Done.
 
 ## 🧪 Beta builds
 
