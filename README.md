@@ -7,7 +7,7 @@ BestDownloader downloads videos and images from YouTube, Instagram, Pinterest, T
 
 [![Download the free trial](https://img.shields.io/badge/⬇️_Download_free_trial-14_days_free-22C55E?style=for-the-badge)](../../releases/latest)
 
-Install it, open it in Premiere and click **Start 14-day free trial**. Like it? Keep it for **₹499 once, lifetime** — [buy here](#-buy-a-license).
+Install it, open it in Premiere and click **Start 14-day free trial**. Like it? Keep it for **₹299 once, lifetime** — [buy here](#-buy-a-license).
 
 > 💰 This is a **paid tool**. The source code is private — this repo is the official showcase, changelog and support page.
 
@@ -85,9 +85,9 @@ Want new features first? In the panel open **Settings → Beta builds → Join t
 
 [![Download the free trial](https://img.shields.io/badge/⬇️_Download_free_trial-14_days_free-22C55E?style=for-the-badge)](../../releases/latest)
 
-Then keep it for **₹499 once, lifetime.** No subscription. One key works on 2 computers.
+Then keep it for **₹299 once, lifetime.** No subscription. One key works on 2 computers.
 
-[![Buy BestDownloader](https://img.shields.io/badge/🛒_Buy_BestDownloader-₹499_lifetime-7C3AED?style=for-the-badge)](https://superprofile.bio/vp/bestdownloader-%E2%80%93-stock-photos---videos-in-premiere-pro)
+[![Buy BestDownloader](https://img.shields.io/badge/🛒_Buy_BestDownloader-₹299_lifetime-7C3AED?style=for-the-badge)](https://superprofile.bio/vp/bestdownloader-%E2%80%93-stock-photos---videos-in-premiere-pro)
 
 Your license key arrives by email right after the purchase.
 
