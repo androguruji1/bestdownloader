@@ -103,6 +103,7 @@ Found a bug or have a feature request? Open an **[Issue](../../issues)** in this
 
 Full notes for every version are on the **[Releases](../../releases)** page.
 
+- **v1.26.13** — Stronger license check; the update check also sends an anonymous computer id, OS and license state (no names, files or links)
 - **v1.26.12** — Beta builds (Settings → Beta builds → Join / Leave); Settings → Browser extension; the panel is ready for the Firefox add-on
 - **v1.26.11** — Cleaner release build: every panel file gets its own internal names
 - **v1.26.10** — Browsers that aren't on the computer can't be picked for cookies; clearer cookie errors; updates keep one backup
