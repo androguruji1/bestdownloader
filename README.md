@@ -103,6 +103,7 @@ Found a bug or have a feature request? Open an **[Issue](../../issues)** in this
 
 Full notes for every version are on the **[Releases](../../releases)** page.
 
+- **v1.26.14** — A YouTube link pasted with "Audio only" chosen now downloads audio; the audio of a video that is still downloading can be queued
 - **v1.26.13** — Stronger license check; the update check also sends an anonymous computer id, OS and license state (no names, files or links)
 - **v1.26.12** — Beta builds (Settings → Beta builds → Join / Leave); Settings → Browser extension; the panel is ready for the Firefox add-on
 - **v1.26.11** — Cleaner release build: every panel file gets its own internal names
